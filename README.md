@@ -82,7 +82,7 @@ Follow these steps to run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/acca-ui.git
+git clone https://github.com/aniljiA1/anilnxtwaveproject8.git
 
 # Navigate to project folder
 cd acca-ui
